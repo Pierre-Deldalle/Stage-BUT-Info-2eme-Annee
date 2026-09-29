@@ -4,6 +4,8 @@ Projet réalisé dans le cadre de mon **stage de deuxième année de BUT Informa
 
 L'objectif était de participer à l'amélioration du site web de l'entreprise en travaillant notamment sur la présentation de ses services et la refonte de certaines interfaces.
 
+🌐 **Site en ligne : [https://optiqual-lab.fr/tableau-de-bord/](https://optiqual-lab.fr/tableau-de-bord/)**
+
 ---
 
 ## 📸 Aperçu
